@@ -5,15 +5,13 @@ import { DirectivaComponent } from '../directiva/directiva/directiva.component';
 import { NutricionistasComponent } from '../nutricionistas/nutricionistas/nutricionistas.component';
 import {NutricionistaService} from '../nutricionistas/nutricionista.service';
 import { RecetasComponent } from '../recetas/recetas.component';
-import { HomeComponent } from '../home/home.component';
 
 
 @NgModule({
   declarations: [
     DirectivaComponent,
     NutricionistasComponent,
-    RecetasComponent,
-    HomeComponent,
+    RecetasComponent
   ],
   imports: [
     CommonModule,

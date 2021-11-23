@@ -18,15 +18,14 @@ a.navbar-brand {
 }
 
 a.logo{
-    float: right;
+    float: left;
     margin-right: 100px;
     margin-top: 10px;
 }
 
 nav.main-navigation {
     position: relative;
-    background-color: #3d3c46;
-    
+    background-color: white;
 }
 
 nav.main-navigation ul.nav-list {
@@ -51,7 +50,7 @@ a.nav-link {
     font-weight: 13;
     cursor: pointer;
     position: relative;
-    color: #cecce7;
+    color: black;
    
 }
 

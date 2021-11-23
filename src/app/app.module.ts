@@ -10,6 +10,7 @@ import { FooterComponent } from './footer/footer/footer.component';
 
 import { LoginComponent } from './login/login.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
+import { HomeComponent } from './home/home.component';
 import { ToastrModule } from 'ngx-toastr';
 
 
@@ -19,9 +20,9 @@ import { ToastrModule } from 'ngx-toastr';
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    
     LoginComponent,
-    DashboardComponent
+    DashboardComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
