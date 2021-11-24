@@ -9,3 +9,8 @@
     box-shadow: 3px 3px 0px transparent;
     transition: 0.5s;
     }
+.table-header {
+        display:flex;
+        width:100%;
+        background:#000;
+}
